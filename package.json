@@ -1,0 +1,24 @@
+{
+  "name": "get-openfonts",
+  "version": "1.0.0",
+  "description": "⚡ CLI to download and install 80,000+ open-source typefaces (Bangla, English, Arabic, Hindi, German).",
+  "bin": {
+    "get-openfonts": "./bin/index.js",
+    "openfonts": "./bin/index.js"
+  },
+  "keywords": [
+    "fonts",
+    "typography",
+    "open-source",
+    "cli",
+    "font-installer",
+    "bangla-fonts",
+    "arabic-fonts"
+  ],
+  "author": "Mohammad Golamrabbii <https://linktr.ee/golamrabbii>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohammadgolamrabbii/get-openfonts.git"
+  }
+}
