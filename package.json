@@ -1,11 +1,12 @@
 {
   "name": "get-openfonts",
-  "version": "1.0.0",
-  "description": "⚡ CLI to download and install 80,000+ open-source typefaces (Bangla, English, Arabic, Hindi, German).",
+  "version": "3.0.0",
+  "description": "⚡ Cross-platform CLI to search, download, and install 334,627+ verified open-source typefaces across 100 Sovereign Script Vaults (Bangla, Arabic, Hindi, Latin, Cyrillic, CJK, and indigenous scripts).",
   "bin": {
     "get-openfonts": "./bin/index.js",
     "openfonts": "./bin/index.js"
   },
+  "main": "./bin/index.js",
   "keywords": [
     "fonts",
     "typography",
@@ -13,18 +14,30 @@
     "cli",
     "font-installer",
     "bangla-fonts",
-    "arabic-fonts"
+    "arabic-fonts",
+    "devanagari-fonts",
+    "latin-fonts",
+    "free-fonts",
+    "open-typography-foundation",
+    "cross-platform-fonts"
   ],
   "author": "Mohammad Golamrabbii <https://linktr.ee/golamrabbii>",
+  "homepage": "https://mohammadgolamrabbii.github.io/typography/",
   "license": "MIT",
   "scripts": {
-    "test": "node bin/index.js --help && node bin/index.js list"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "test": "node bin/index.js version && node bin/index.js search bangla"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/mohammadgolamrabbii/get-openfonts.git"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/mohammadgolamrabbii/get-openfonts/issues"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "README.md",
+    "package.json"
+  ]
 }
