@@ -1,7 +1,7 @@
 {
   "name": "get-openfonts",
   "version": "3.0.0",
-  "description": "⚡ Cross-platform CLI to search, download, and install 334,627+ verified open-source typefaces across 100 Sovereign Script Vaults (Bangla, Arabic, Hindi, Latin, Cyrillic, CJK, and indigenous scripts).",
+  "description": "⚡ Cross-platform CLI to search, download, and install 400,237+ verified open-source typefaces across 100 Sovereign Script Vaults.",
   "bin": {
     "get-openfonts": "./bin/index.js",
     "openfonts": "./bin/index.js"

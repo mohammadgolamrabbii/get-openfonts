@@ -1,8 +1,8 @@
 # ⚡ get-openfonts CLI (v3.0.0)
-> **The Universal Cross-Platform Command-Line Font Manager for 334,627+ Verified Open-Source Typefaces across 100 Sovereign Script Vaults.**
+> **The Universal Cross-Platform Command-Line Font Manager for 400,237+ Verified Open-Source Typefaces across 100 Sovereign Script Vaults.**
 
 [![NPM Version](https://img.shields.io/badge/version-3.0.0-blue.svg?style=for-the-badge)](https://github.com/mohammadgolamrabbii/get-openfonts)
-[![Total Fonts](https://img.shields.io/badge/Verified%20Fonts-334%2C627%2B-gold.svg?style=for-the-badge)](https://github.com/Open-Typography-Foundation/100-Sovereign-Fonts-Vaults)
+[![Total Fonts](https://img.shields.io/badge/Verified%20Fonts-400%2C237%2B-gold.svg?style=for-the-badge)](https://github.com/Open-Typography-Foundation/100-Sovereign-Fonts-Vaults)
 [![Sovereign Vaults](https://img.shields.io/badge/Script%20Vaults-100-brightgreen.svg?style=for-the-badge)](https://github.com/Open-Typography-Foundation/100-Sovereign-Fonts-Vaults)
 [![Platforms](https://img.shields.io/badge/Platforms-Linux%20%7C%20macOS%20%7C%20Windows-blueviolet.svg?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/License-MIT%20%2F%20SIL%20OFL-green.svg?style=for-the-badge)](LICENSE)
@@ -72,7 +72,7 @@ The `install` command automatically detects your operating system and places the
 
 ---
 
-## 🏛️ Comprehensive Sovereign Vault Coverage (334,627+ Fonts)
+## 🏛️ Comprehensive Sovereign Vault Coverage (400,237+ Fonts)
 
 `get-openfonts` provides direct access to 100 sovereign script vaults:
 
