@@ -1,7 +1,7 @@
 {
   "name": "get-openfonts",
   "version": "3.0.0",
-  "description": "⚡ Cross-platform CLI to search, download, and install 400,237+ verified open-source typefaces across 100 Sovereign Script Vaults.",
+  "description": "⚡ Cross-platform CLI to search, download, and install 500,337+ verified open-source typefaces across 100 Sovereign Script Vaults.",
   "bin": {
     "get-openfonts": "./bin/index.js",
     "openfonts": "./bin/index.js"

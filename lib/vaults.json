@@ -1,5 +1,5 @@
 {
-  "total_fonts": 400237,
+  "total_fonts": 500337,
   "vaults": [
     {
       "id": "01",
@@ -22,7 +22,7 @@
       "id": "02",
       "folder": "2_English_Latin",
       "script": "🇬🇧 English & Modern Latin",
-      "count": 252767,
+      "count": 332867,
       "github": "https://github.com/Open-Typography-Foundation/English-Latin-Fonts-Archive",
       "archive_org": "https://archive.org/details/open-typography-foundation-english-fonts",
       "aliases": [
@@ -244,7 +244,7 @@
       "id": "16",
       "folder": "16_Developer_Coding_Monospace",
       "script": "💻 Developer & Coding Monospace",
-      "count": 8095,
+      "count": 28095,
       "github": "https://github.com/Open-Typography-Foundation/Developer-Coding-Monospace-Fonts-Archive",
       "archive_org": "https://archive.org/details/open-typography-foundation",
       "aliases": [
